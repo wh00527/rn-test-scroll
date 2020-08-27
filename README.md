@@ -1,12 +1,12 @@
-## ReactNative项目初始化
+## rn test proejct 
+### ReactNative install
 ```
-install
+yarn or npm install
 
 ```
-### yarn or npm install
 
-## project test 
-run ```yarn test```
+### project test 
+```yarn test```
 
 ### back button in android
 ```
